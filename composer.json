@@ -2,6 +2,7 @@
     "name": "marcohern/entities",
     "description": "Entities for all my Laravel projects",
     "type": "library",
+    "version": "1.0",
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
